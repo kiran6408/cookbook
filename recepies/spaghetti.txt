@@ -1,2 +1,4 @@
 Spaghetti
 sugar
+apples
+cinnamon
